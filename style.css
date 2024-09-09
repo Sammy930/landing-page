@@ -77,7 +77,16 @@ body {
 
 button {
   background-color: #3882F6;
+  border: solid #3882F6;
+  border-radius: 5px;
   color: #E5E7EB;
+  padding: 3px 22px;
+  font-weight: 900;
+}
+
+.call-to-action button {
+  border-color: #E5E7EB;
+  border-width: 2px;
 }
 
 ul {
