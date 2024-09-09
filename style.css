@@ -66,6 +66,11 @@ body {
   color: #E5E7EB;
 }
 
+.image img {
+  height: 160px;
+  width: 160px;
+}
+
 button {
   background-color: #3882F6;
   color: #E5E7EB;
