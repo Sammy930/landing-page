@@ -65,6 +65,10 @@ body {
 .footer-text {
   color: #E5E7EB;
 }
+.main img {
+  height: 261px;
+  width: 404px;
+}
 
 .image img {
   height: 160px;
