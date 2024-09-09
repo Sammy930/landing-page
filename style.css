@@ -39,6 +39,9 @@ body {
   color: #1F2937;
 }
 
+.subtext {
+  color: #1F2937;
+}
 .quote {
   background-color: #E5E7EB;
 }
@@ -73,6 +76,8 @@ body {
 .image img {
   height: 160px;
   width: 160px;
+  border: solid #3882F6;
+  border-radius: 10px;
 }
 
 button {
