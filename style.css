@@ -30,11 +30,6 @@ body {
   color: #E5E7EB;
 }
 
-button {
-  background-color: #3882F6;
-  color: #E5E7EB;
-}
-
 .info-header {
   font-size: 36px;
   font-weight: 900;
@@ -66,4 +61,20 @@ button {
 
 .footer-text {
   color: #E5E7EB;
+}
+
+button {
+  background-color: #3882F6;
+  color: #E5E7EB;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #F9FAF8;
 }
