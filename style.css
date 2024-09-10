@@ -85,14 +85,15 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  width: 220px;
   gap: 10px;
 }
 
 .subtext {
   color: #1F2937;
-  padding: 0 45px;
   text-align: center;
 }
+
 .quote {
   background-color: #E5E7EB;
 }
