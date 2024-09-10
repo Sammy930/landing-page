@@ -114,6 +114,7 @@ body {
 .call-to-action {
   background-color: #3882F6;
   color: #E5E7EB;
+  margin: 0 128px 148px;
 }
 
 .call-text {
