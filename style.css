@@ -141,11 +141,13 @@ button {
   color: #E5E7EB;
   padding: 3px 22px;
   font-weight: 900;
+  margin-bottom: 10px;
 }
 
 .call-to-action button {
   border-color: #E5E7EB;
   border-width: 2px;
+  margin-bottom: 0;
 }
 
 ul {
