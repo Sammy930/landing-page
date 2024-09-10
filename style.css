@@ -112,8 +112,11 @@ body {
 }
 
 .call-to-action {
+  display: flex;
+  justify-content: space-between;
   background-color: #3882F6;
   color: #E5E7EB;
+  padding: 50px 12px;
   margin: 0 128px 148px;
 }
 
