@@ -178,6 +178,10 @@ ul {
   gap: 32px;
 }
 
+li :hover {
+  color: grey;
+}
+
 a {
   text-decoration: none;
   color: #F9FAF8;
