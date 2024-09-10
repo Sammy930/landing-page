@@ -96,6 +96,7 @@ body {
 
 .quote {
   background-color: #E5E7EB;
+  padding: 148px 140px;
 }
 
 .quote-text {
@@ -107,7 +108,9 @@ body {
 .quote-author {
   font-size: 20px;
   font-weight: 700;
+  text-align: end;
 }
+
 .call-to-action {
   background-color: #3882F6;
   color: #E5E7EB;
