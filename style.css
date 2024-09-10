@@ -55,17 +55,42 @@ body {
 }
 
 .content {
+  display: flex;
+  flex-direction: column;
   flex: 1;
+  gap: 148px;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .info-header {
   font-size: 36px;
   font-weight: 900;
   color: #1F2937;
+  padding: 53px 0;
+}
+
+.info-images {
+  display: flex;
+}
+
+.image {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
 }
 
 .subtext {
   color: #1F2937;
+  padding: 0 45px;
+  text-align: center;
 }
 .quote {
   background-color: #E5E7EB;
